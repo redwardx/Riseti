@@ -1,14 +1,13 @@
-Topik Penelitian: "Pengembangan Sistem Presensi Online Menggunakan Framework Laravel: Studi Kasus dalam Meningkatkan Efisiensi dan Akurasi Presensi Mahasiswa"
+Counter Pick Hero Mobile Legends: Bang Bang dengan Metode Naive Bayes
 
-Problem Statement: Saat ini, sistem presensi di banyak perguruan tinggi masih mengandalkan metode manual, seperti daftar hadir fisik atau absensi lewat kertas. Hal ini seringkali kurang efisien dan dapat menyebabkan masalah keakuratan data presensi. Penggunaan teknologi untuk mengotomatisasi dan meningkatkan presensi mahasiswa merupakan tantangan penting dalam pendidikan tinggi.
+Problem Statement: Mobile Legends: Bang Bang adalah sebuah game Multiplayer Online Battle Arena (MOBA) yang rilis pada tahun 14 Juli 2016. Dalam game ini, player akan bermain sebagai team yang berisikan 5 orang dengan menggunakan hero yang tersedia. Hero dalam game ini memiliki role dan keunikannya masing - masing, oleh karena itu diperlukan sebuah strategi untuk menentukan komposisi hero yang digunakan oleh team untuk bermain secara kompetitif.
 
 Research Questions:
 
-1. Bagaimana cara mengembangkan sistem presensi online berbasis Laravel yang dapat meningkatkan efisiensi administrasi presensi mahasiswa?
-2. Apakah implementasi sistem presensi online dapat meningkatkan akurasi data presensi mahasiswa?
-3. Bagaimana persepsi mahasiswa terhadap penggunaan sistem presensi online dalam konteks kenyamanan dan efektivitas?
+1. Bagaimana komposisi teamm (pilihan hero) yang dapat meningkatkan kemenangan saat bermain?
+2. Kombinasi hero seperti apa yang sering berhasil sebagai counter terhadap draft lawan?
+
 Keterkaitan:
 
-1. Penelitian ini dapat memberikan panduan praktis kepada perguruan tinggi dan lembaga pendidikan lainnya tentang bagaimana mengimplementasikan sistem presensi online yang efisien.
-2. Dengan fokus pada akurasi presensi, penelitian ini dapat membantu mengurangi masalah absensi palsu dan memastikan bahwa data presensi mahasiswa lebih akurat.
-3. Studi ini juga dapat menggali pandangan mahasiswa tentang penggunaan teknologi dalam hal presensi, yang dapat membantu lembaga pendidikan memahami bagaimana meningkatkan pengalaman mahasiswa.
+1. Penelitian ini dapat memberikan counter draft untuk mengatasi hero yang digunakan oleh lawan.
+2. Dengan menggunakan metode Naive Bayes, penelitian ini dapat membantu mengambil draft hero dan menemukan counter dari hero lawan.
